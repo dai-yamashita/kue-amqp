@@ -1,7 +1,7 @@
 {
   "name": "kue-amqp",
   "description": "An implementation of Kue that sits on top of AMQP.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": true,
   "dependencies": {
       "amqp-sqs": "git://github.com/markbirbeck/amqp-sqs.git#v0.6.0"
@@ -9,6 +9,7 @@
     , "flatiron": "~0.3.8"
     , "underscore": "~1.5.1"
     , "union": "~0.3.7"
+    , "winston": "~0.7.2"
     , "yaml": "~0.2.3"
   },
   "engines": {
