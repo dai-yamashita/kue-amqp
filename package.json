@@ -9,6 +9,7 @@
     , "flatiron": "~0.3.8"
     , "underscore": "~1.5.1"
     , "union": "~0.3.7"
+    , "winston": "~0.7.2"
     , "yaml": "~0.2.3"
   },
   "engines": {
